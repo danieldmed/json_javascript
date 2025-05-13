@@ -1,0 +1,20 @@
+[
+{
+    "nome": "Daniel",
+    "idade": 20,
+    "programador": true,
+    "hobbies": ["Desenhar", "Ler", "Escrever"]
+},
+{
+    "nome": "João",
+    "idade": 32,
+    "programador": false,
+    "hobbies": ["Treinar", "Ler", "Lutar"]
+},
+{
+    "nome": "Maria",
+    "idade": 22,
+    "programador": true,
+    "hobbies": ["Correr", "Dirigir", "Escrever"]
+}
+]
